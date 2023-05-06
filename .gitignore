@@ -1,0 +1,9 @@
+/x64
+
+/.vs
+
+/BitArray/x64/Debug
+
+*.user
+
+*.filters
